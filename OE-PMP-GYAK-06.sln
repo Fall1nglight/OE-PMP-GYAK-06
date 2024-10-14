@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OE-PMP-GYAK-06", "OE-PMP-GYAK-06.csproj", "{260C2F16-4915-4052-A530-8C309E0E1AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260C2F16-4915-4052-A530-8C309E0E1AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260C2F16-4915-4052-A530-8C309E0E1AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260C2F16-4915-4052-A530-8C309E0E1AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260C2F16-4915-4052-A530-8C309E0E1AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F270B05F-11B3-4197-AA97-A983899AF726}
+	EndGlobalSection
+EndGlobal
